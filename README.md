@@ -22,19 +22,19 @@ Beyond software and research, I am deeply involved in hosting events as an MC, t
 
 ### 🚀 Featured Work & Projects
 
-#### 🧠 [VirtualDouble (Project ANT)](https://github.com/evice2457/AdaptiveNeuralTechnology) `ADC Hackathon 2026 Shortlisted Project`
+#### 🧠 [VirtualDouble (Project ANT)](https://github.com/evice2457/Hackathon-ANT.git) `ADC Hackathon 2026 Shortlisted Project`
 *An adaptive, privacy-first AI focus companion designed for neurodivergent individuals and people with ADHD traits.*
 - **Client-Side Vision:** Runs MediaPipe Face Landmarker on **WebAssembly (Wasm) + GPU** (320x240 @ 10 FPS) entirely in the browser with zero external server video streaming.
 - **Behavioral Signal Filtering:** Derives pitch/yaw Euler angles from 478 3D landmarks + 52 blendshapes, applying a 1.8s neutral baseline calibration, Exponential Moving Average (EMA, $\alpha=0.35$), and hysteresis state machines.
 - **Workflow Integration:** Utilizes Chrome's **Document Picture-in-Picture API** paired with an inaudible audio keep-alive track to run persistent, gentle check-ins while users code or write in separate apps.
 
-#### 🩺 [LANT — Lesion Analysis & Necrotic Tissue Vision System](https://github.com/evice2457)
+#### 🩺 [LANT — Lesion Analysis & Necrotic Tissue Vision System](https://github.com/AnhNguyen-06/LANT---Lesion-Analysis-Necrotic-Tissue-Vision-System.git)
 *Clinical-grade open-wound morphological segmentation and telehealth monitoring.*
 - Uses physical **ArUco marker calibration** (2.0 cm) to eliminate optical distortion and measure surface area in accurate $\text{cm}^2$.
 - Segments histological tissue compositions (RYB: Red granulation, Yellow slough, Black necrotic eschar, Pink epithelial edges) to calculate a dynamic Wound Health Index (WHI) and trigger clinical debridement alerts.
 - Built end-to-end with **Next.js 14, TypeScript, Tailwind CSS**, and an interactive multi-layer HTML5 Canvas.
 
-#### 📊 [ELEPOCKET](https://elepocket.netlify.app/)
+#### 📊 [ELEPOCKET](https://github.com/AnhNguyen-06/ELEPOCKET-2.git)
 *A student-focused personal finance and dynamic budgeting engine.*
 - Engineered a logic-based assessment engine providing personalized spending profiles and financial action plans.
 - Migrated from Vanilla JS to **Next.js 16 (App Router)** and **TypeScript**, serving 600+ unique visitors.
@@ -66,7 +66,7 @@ Beyond software and research, I am deeply involved in hosting events as an MC, t
 ### 🛠 Tech Stack
 
 **💻 Languages**  
-`C++` • `Python` • `TypeScript` • `JavaScript` • `Java` • `SQL`
+`C++` • `C` • `Python` • `TypeScript` • `JavaScript` • `Java` • `SQL`
 
 **🤖 AI & Computer Vision**  
 `PyTorch` • `OpenCV` • `MediaPipe (Wasm / GPU)` • `Transformers (Hugging Face)` • `NumPy`
