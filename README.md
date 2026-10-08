@@ -5,7 +5,6 @@
 **AI Engineering Student @ HCMUT • Incoming Exchange @ NUS • Undergraduate Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio & Certs](https://img.shields.io/badge/Certificates-dub.sh%2Fquanganh--certs-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white)](https://dub.sh/quanganh-certs)
 [![Email](https://img.shields.io/badge/Email-731819nguyenvanquanganh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:731819nguyenvanquanganh@gmail.com)
 
 </div>
